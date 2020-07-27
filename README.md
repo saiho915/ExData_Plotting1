@@ -1,3 +1,7 @@
+## <font color="red">Reminder from Student</font>
+
+Because the data is a little bit too large to upload, so I don't push the data set to the Github repo with code and pics. If you clone my repository, please put the data set under a directory named data ("./data/") manually. 
+
 ## Introduction
 
 This assignment uses data from
@@ -34,10 +38,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
